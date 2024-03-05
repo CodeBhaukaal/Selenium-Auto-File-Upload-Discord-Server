@@ -1,8 +1,8 @@
 # About This Project
 important command
-
+```
 pip install selenium
-
+```
 This Python script utilizes Selenium WebDriver to automate interactions with the Discord web application. Let's break down the code step by step:
 
 Importing Libraries:
